@@ -80,6 +80,6 @@ Resultado da análise de sentimento:
 
 ## ✍🏻 CONSIDERAÇÕES FINAIS:
 
-
+O poder dessas ferramentas são de larga escala, desde uma secretária eletrônica, até mesmo em uma análise de sentimento em texto, isso pode ajudar uma empresa a sair da falência, ou, até mesmo, fazer com que seu lucro cresça exponencialmente, podemos perceber o quão poderoso é o uso das ferramentas IA
 
 
